@@ -43,7 +43,7 @@ Cobre: Fundamentos de IA, IA Generativa, Engenharia de Prompts, Avaliação de M
  
 ## 🔨 Projetos Reais
  
-### 🔍 [Fakenator IA](https://github.com/seu-usuario/fakenator-ia)
+### 🔍 [Fakenator IA](https://github.com/devjorgeee/fakenator-ai-pro)
 **Sistema de detecção de fake news com Machine Learning**
  
 **O que é:**
@@ -61,7 +61,7 @@ Cobre: Fundamentos de IA, IA Generativa, Engenharia de Prompts, Avaliação de M
  
 ---
  
-### 📊 [Sales Analytics](https://github.com/seu-usuario/sales-analytics)
+### 📊 [Sales Analytics]https://github.com/devjorgeee/sales-analytics)
 **Banco de dados relacional com análise de vendas**
  
 **O que é:**
