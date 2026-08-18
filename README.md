@@ -61,7 +61,7 @@ Cobre: Fundamentos de IA, IA Generativa, Engenharia de Prompts, Avaliação de M
  
 ---
  
-### 📊 [Sales Analytics]https://github.com/devjorgeee/sales-analytics
+### 📊 [Sales Analytics](https://github.com/devjorgeee/sales-analytics)
 **Banco de dados relacional com análise de vendas**
  
 **O que é:**
