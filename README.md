@@ -119,7 +119,7 @@ Estou no 4º semestre de ADS com foco estratégico em **Machine Learning e IA Ge
 - Transparência sobre nível de conhecimento
 ---
  
-## 🤝 Estou Aberto para Oportunidades
+## 🤝 Estou aberto para oportunidades
  
 **O que você pode esperar:**
 - Profissional sério sobre IA/ML, não hobbyist
