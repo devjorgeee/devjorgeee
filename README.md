@@ -105,7 +105,7 @@ Cobre: Fundamentos de IA, IA Generativa, Engenharia de Prompts, Avaliação de M
  
 ## 📖 Sobre Mim
  
-Estou no 4º semestre de ADS com foco estratégico em **Machine Learning e IA Generativa**. Esta não é uma escolha casual — é uma especialização deliberada dentro do curso, onde direciono projetos e aprendizado para a trilha de AI/ML.
+Estou no 4º semestre de ADS com foco estratégico em **Machine Learning e IA Generativa**. Esta não é uma escolha casual, é uma especialização deliberada dentro do curso, onde direciono projetos e aprendizado para a trilha de AI/ML.
  
 **Contexto profissional:**
 - Transição estruturada: de zero em programação → AI Engineer
