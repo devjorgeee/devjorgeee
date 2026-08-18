@@ -142,6 +142,6 @@ Projetos disponíveis sob licença MIT.
 ---
  
 <div align="center">
-**Construindo expertise em IA, um commit de cada vez** 🧠
+Construindo expertise em IA, um commit de cada vez 🧠
  
 </div>
