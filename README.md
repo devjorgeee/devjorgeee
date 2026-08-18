@@ -126,6 +126,7 @@ Estou no 4º semestre de ADS com foco estratégico em **Machine Learning e IA Ge
 - Código limpo, bem documentado e testado
 - Disposição para aprender rápido em ambiente desafiador
 - Comunicação clara e sem bullshit
+---
 **Conecte comigo:**
  
 📧 **Email**: jorgelucascruz22@gmail.com  
